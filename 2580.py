@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+
+a_1=a*((b%100)%10)
+a_2=a*((b%100)//10)
+a_3=a*(b//100)
+total=a_1+(a_2*10)+(a_3*100)
+print(a_1)
+print(a_2)
+print(a_3)
+print(total)
