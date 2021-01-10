@@ -1,1 +1,1 @@
-백준 단계별로 풀기 레포지토리 python3
+These are codes that solved the questions on Baekjun site with Python 3.
