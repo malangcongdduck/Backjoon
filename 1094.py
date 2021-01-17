@@ -3,7 +3,7 @@ ans=[0]*10 #Stack
 
 ans[0]=64 #스택에 64넣어서 시작
 ptr=1 #스택 포인터
-
+ 
 
 if sum(ans)>x:
     #i=1
