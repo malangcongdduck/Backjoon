@@ -22,4 +22,4 @@ for i in range(n):
         if len(s)==0:
             print('-1')
         else:
-            print(s[len(s)-1]) 
+            print(s[len(s)-1])
