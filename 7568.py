@@ -10,5 +10,5 @@ for i in s:
     for j in s:
         #자신보다 몸무게와 키가 큰 사람을 카운트
         if i[0]<j[0] and i[1]<j[1]:
-            cnt+=1
+            cnt+=1 
     print(cnt, end=' ')
