@@ -13,4 +13,4 @@ if __name__ == "__main__":
     n=int(input())
     a=[None]*n
     a=list(map(int,input().split()))
-    print(f'{func_sum(a)}')
+    print(f'{func_sum(a)}') 
