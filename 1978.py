@@ -17,4 +17,4 @@ for i in s:
 
     result+=true_p
 
-print(result)
+print(result) 
