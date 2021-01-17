@@ -10,4 +10,4 @@ for i in range(n-2):
             if card[i]+card[j]+card[k]<=m and card[i]+card[j]+card[k]>=max:
                 max=card[i]+card[j]+card[k]
 
-print(max)
+print(max) 
