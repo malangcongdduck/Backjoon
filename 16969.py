@@ -23,4 +23,4 @@ for i in range(1,len(result)):
     re*=result[i]
     re=re%1000000009 
 
-print(re)
+print(re) 
