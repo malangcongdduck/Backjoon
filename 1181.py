@@ -15,4 +15,4 @@ def str_len(str_m):
 ans.sort(key=str_len)
 
 for i in ans:
-    print(i)
+    print(i) 
