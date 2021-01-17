@@ -8,7 +8,7 @@ q=deque([i for i in range(1, n+1)])
 cnt2=0
 cnt3=0
 
-for i in s:
+for i in s: 
     index=q.index(i)
 
     if index<=(len(q)-1)//2:
