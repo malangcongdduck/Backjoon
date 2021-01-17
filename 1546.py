@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 n=int(input())
 a=[None]*n
 a=list(map(int,input().split()))
@@ -24,5 +23,5 @@ for i in range(n):
     result+=a[i]
 
 result=result/n
->>>>>>> e0846c0484c6df47787461a9982e06dbe6ae4039
+
 print(result)
