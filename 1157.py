@@ -5,4 +5,4 @@ max_alpha=max(ans)
 if ans.count(max_alpha)==1:
     print(chr(ans.index(max_alpha)+ord('A')))
 else:
-    print('?')
+    print('?') 
