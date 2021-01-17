@@ -10,4 +10,4 @@ b_m=int(b)
 if a_m>b_m:
     print(a_m)
 else:
-    print(b_m)
+    print(b_m) 
