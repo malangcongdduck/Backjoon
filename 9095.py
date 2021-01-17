@@ -24,4 +24,4 @@ def sum123(n):
 for i in range(t):
     n=int(sys.stdin.readline())
     print(sum123(n))
-    print()
+    print() 
