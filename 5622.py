@@ -9,4 +9,3 @@ if 2<=len(w)<=15:
                 time+=(alpha.index(j)+3)
 
 print(time)
-        
