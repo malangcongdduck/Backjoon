@@ -9,4 +9,4 @@ else:
             print(a)
             n=n/a
         else:
-            a+=1
+            a+=1 
