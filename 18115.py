@@ -17,5 +17,5 @@ for i in range(n):
     else:
         dq.append(i+1)
 
-for i in dq:
+for i in dq: 
     print(f'{i} ',end='')
