@@ -39,4 +39,4 @@ if true_p==1:
     for i in ans:
         print(i)
 else:
-    print('NO')
+    print('NO') 
