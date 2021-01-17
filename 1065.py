@@ -7,7 +7,7 @@ def eq_se(n):
     c=n%10
     return a+c==2*b
 
-n=int(input())
+n=int(input()) 
 
 count=0
 for i in range(1, n+1):
