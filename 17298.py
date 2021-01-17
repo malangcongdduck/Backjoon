@@ -21,4 +21,4 @@ for i in range(n-1,-1,-1):
 
 #print(q)
 for i in ans:
-    print(i,end=' ')
+    print(i,end=' ') 
