@@ -44,4 +44,5 @@ for i in range(n):
         else:
             print('1')
     else:
-        print(s.peek())
+        print(s.peek()) 
+ 

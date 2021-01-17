@@ -37,5 +37,5 @@ for i in m_list:
     if n_list[temp1]==i:
         cnt+=temp1-temp2+1
     else:
-        cnt+=temp1-temp2
+        cnt+=temp1-temp2 
     print(cnt,end=' ')

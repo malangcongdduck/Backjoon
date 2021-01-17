@@ -12,4 +12,4 @@ for i in range(1,n):
     if max<a[i]:
         max=a[i]
 
-print(f'{min} {max}')
+print(f'{min} {max}') 
