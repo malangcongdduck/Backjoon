@@ -28,4 +28,4 @@ while q:
     
 
 for i in ans:
-    print(i)
+    print(i) 
