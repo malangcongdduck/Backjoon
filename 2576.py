@@ -11,4 +11,4 @@ if len(a)==0:
     print('-1')
 else:
     print(sum(a))
-    print(min(a))
+    print(min(a)) 
