@@ -21,4 +21,4 @@ for i in range(n):
         q.append([i+1,tower[i]])
        
 for i in ans:
-    print(i,end=' ')
+    print(i,end=' ') 
