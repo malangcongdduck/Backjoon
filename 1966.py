@@ -29,4 +29,4 @@ for i in range(t):
                 break
         else:
             q.append(q.popleft())
-            s.append(s.pop(0))
+            s.append(s.pop(0)) 
