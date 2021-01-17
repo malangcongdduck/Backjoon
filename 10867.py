@@ -5,4 +5,4 @@ s=set(s)
 a=sorted(list(s))
 
 for i in range(len(a)):
-    print(f'{a[i]} ',end='')
+    print(f'{a[i]} ',end='') 
