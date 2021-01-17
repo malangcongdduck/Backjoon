@@ -21,4 +21,4 @@ for i in range(9):
     if a[max]<a[i]:
         max=i
 
-print(f'{a[max]}\n{max+1}')
+print(f'{a[max]}\n{max+1}') 
