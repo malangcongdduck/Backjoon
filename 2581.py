@@ -20,4 +20,4 @@ if len(list_mn)==0:
     print('-1')
 else:
     print(sum(list_mn))
-    print(min(list_mn))
+    print(min(list_mn)) 
