@@ -18,4 +18,4 @@ while True:
 
     #print(q)
 
-print(q[0])
+print(q[0]) 
