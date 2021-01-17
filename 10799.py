@@ -13,7 +13,7 @@ for i in range(len(li)):
     elif li[i]==')' and li[i-1]=='(':
         s.pop()
         stick+=len(s)
-    #닫힌괄호(막대기)
+    #닫힌괄호(막대기) 
     elif li[i]==')' and s[-1]=='(':
         s.pop()
         stick+=1
