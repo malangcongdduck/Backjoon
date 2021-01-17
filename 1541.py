@@ -11,5 +11,5 @@ for i in li[0].split('+'):
 for i in li[1:]:
     for j in i.split('+'):
         result-=int(j)
-
+ 
 print(result)
