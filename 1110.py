@@ -25,7 +25,7 @@ while True:
     n_3=(n_1+n_2)%10 #8
     sum=(n_2*10)+n_3 #60+8
     l+=1
-
+ 
 
     if sum==n:
         print(l)
