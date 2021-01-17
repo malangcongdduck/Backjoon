@@ -8,4 +8,4 @@ t=2*n-1 #s의 역순 인덱스
 for i in range(n):
     s_m.append(s[i]+s[t-i])
 
-print(min(s_m))
+print(min(s_m)) 
