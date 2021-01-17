@@ -14,5 +14,5 @@ def dfs(visited, kg, day):
                 dfs(visited+[i],kg+s[i]-k, day+1)
           
 count=0
-dfs([],500,0)
+dfs([],500,0) 
 print(count)
