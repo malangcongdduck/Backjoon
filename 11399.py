@@ -7,4 +7,4 @@ for i in range(n):
     for j in range(i+1):
         sum+=s[j]
 
-print(sum)
+print(sum) 
