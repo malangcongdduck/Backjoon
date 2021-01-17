@@ -1,2 +1,2 @@
-s=input().split()
+s=input().split() 
 print(f'{len(s)}')
