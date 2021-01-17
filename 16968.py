@@ -22,4 +22,4 @@ re=result[0]
 for i in range(1,len(result)):
     re*=result[i]
 
-print(re)
+print(re) 
