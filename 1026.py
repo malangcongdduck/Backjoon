@@ -8,5 +8,5 @@ result=[]
 for i in range(n):
     result.append(a[i]*max(b))
     b.pop(b.index(max(b)))
-
+ 
 print(sum(result))
