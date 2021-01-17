@@ -14,4 +14,4 @@ for i in range(1,n):
         f=time[i][1]
         count+=1
 
-print(count)
+print(count) 
