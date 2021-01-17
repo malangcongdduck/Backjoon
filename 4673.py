@@ -8,4 +8,4 @@ for i in range(10000):
     gen.append(d(i))
 
     if i not in gen:
-        print(i)
+        print(i) 
