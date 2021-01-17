@@ -26,4 +26,4 @@ while True:
     elif true_p==1 and len(s)==0:
         print('yes')
     else:
-        print('no')
+        print('no') 
