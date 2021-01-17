@@ -27,4 +27,4 @@ if __name__ == "__main__":
     for i in range(s.ptr):
         sum_s+=s.pop()
 
-    print(sum_s)
+    print(sum_s) 
