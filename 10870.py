@@ -15,4 +15,4 @@ def fibonacci(n):
         return ans[n]
 
 n=int(sys.stdin.readline())
-print(fibonacci(n))
+print(fibonacci(n)) 
