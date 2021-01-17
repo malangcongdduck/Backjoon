@@ -17,5 +17,5 @@ for i in coin:
     else:
         cnt+=k//i
         k%=i
-
+ 
 print(cnt)
