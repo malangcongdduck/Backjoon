@@ -7,7 +7,7 @@ q=deque()
 for i in range(1,n+1):
     q.append(i)
 
-ans=[]
+ans=[] 
 plag=1
 while q:
     if plag==1:
