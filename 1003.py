@@ -11,7 +11,7 @@ def fibonacci(n):
         return 1
     elif ans[n]!=0:
         return ans[n]
-    else:
+    else: 
         ans[n]=fibonacci(n-1)+fibonacci(n-2)
         return ans[n]
 
