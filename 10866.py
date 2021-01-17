@@ -37,4 +37,4 @@ for i in range(n):
         if len(q)==0:
             print('-1')
         else:
-            print(q[len(q)-1])
+            print(q[len(q)-1]) 
