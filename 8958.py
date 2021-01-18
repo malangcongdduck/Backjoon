@@ -10,4 +10,4 @@ for i in range(n):
         elif a[j]=="O":    
             score+=num
             num+=1
-    print(score)
+    print(score) 

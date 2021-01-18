@@ -9,4 +9,4 @@ elif(70<=a<=79):
 elif(60<=a<=69):
     print('D')
 else:
-    print('F')
+    print('F') 

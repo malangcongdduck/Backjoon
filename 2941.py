@@ -5,4 +5,4 @@ for i in cro:
     s=s.replace(i,'*')
     
 #print(s)
-print(len(s))
+print(len(s)) 

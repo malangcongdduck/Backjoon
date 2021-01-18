@@ -9,4 +9,4 @@ while True:
         break
     else:
         result=(v//p)*l+min(l,v-p*(v//p))
-        print(f'Case {case}: {result}')
+        print(f'Case {case}: {result}') 

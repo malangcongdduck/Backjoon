@@ -33,3 +33,4 @@ for i in range(t):
             print(s[i],end=',')
         print(s[-1],end='')
         print(']')
+ 

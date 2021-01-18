@@ -8,4 +8,3 @@ for i in range(t):
         print(f'{s[i]*r}',end='')
     
     print()
-    
