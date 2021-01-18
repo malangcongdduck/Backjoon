@@ -48,4 +48,4 @@ for i in range(n):
         if G[i][j]!=-1:
             tomato+=1
 
-print(bfs(box))
+print(bfs(box)) 
